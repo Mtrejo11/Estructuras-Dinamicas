@@ -1,2 +1,2 @@
 # Estructuras-Dinamicas
-Laboratoris programación de estructuras dinámicas UCA
+Laboratorios programación de estructuras dinámicas UCA
